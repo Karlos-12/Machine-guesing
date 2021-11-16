@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Machine guesing", "Machine guesing\Machine guesing.csproj", "{EA7877AD-BF47-46EB-AF03-D1450F84BF8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA7877AD-BF47-46EB-AF03-D1450F84BF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7877AD-BF47-46EB-AF03-D1450F84BF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7877AD-BF47-46EB-AF03-D1450F84BF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7877AD-BF47-46EB-AF03-D1450F84BF8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7156322-A52A-4730-8DAB-227FA47897EB}
+	EndGlobalSection
+EndGlobal
